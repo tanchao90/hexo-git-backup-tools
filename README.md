@@ -11,6 +11,14 @@ Back-up the source files of my blog.
 - Python 3.x: Not tested.
 
 
+## Install Hexo
+Reference [Hexo](https://hexo.io/)
+
+- Install Hexo
+- Create hexo blog
+- Install theme
+
+
 ## clone repo to local
 - Go to the root directory of hexo blog.
 - `git clone https://github.com/tanchao90/hexo-git-backup.git`
